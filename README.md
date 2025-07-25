@@ -81,12 +81,13 @@
   <td align="center" width="50%">
     <a href="https://github.com/subratapeid/gMagic">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=gMagic&theme=radical&cache_seconds=60" />
-    </a><br>
-    <p>
+       <p>
       <img src="https://img.shields.io/github/stars/subratapeid/gMagic?style=social" />
       <img src="https://img.shields.io/github/forks/subratapeid/gMagic?style=social" />
       <img src="https://img.shields.io/github/last-commit/subratapeid/gMagic" />
     </p>
+    </a><br>
+
   </td>
 </tr>
 </table>
