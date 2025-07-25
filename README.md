@@ -47,10 +47,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=subratapeid&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 100px;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=subratapeid&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 200px;"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=subratapeid&theme=tokyonight" alt="GitHub Streak Stats" style="height: 100px;"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=subratapeid&theme=tokyonight" alt="GitHub Streak Stats" style="height: 200px;"/>
     </td>
   </tr>
   <tr>
