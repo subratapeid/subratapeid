@@ -19,7 +19,7 @@
 
 ## 💡 About Me
 
-- 🇮🇳 Full Stack Developer from India  
+- 🌍 Full Stack Developer from India  
 - 💻 I craft Web Apps, Dashboards & Developer Tools  
 - 🤖 Automating Google Workspace with Apps Script  
 - 📚 Building **UXLIB** – Reusable UI/UX component library  
