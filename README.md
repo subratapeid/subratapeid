@@ -1,36 +1,38 @@
-# 👋 Hi there, I'm Subrata
+<h1 align="center">👋 Hi there, I'm Subrata</h1>
 
 <div align="center">
-  <h2 style="font-family:Segoe UI, sans-serif; color:#f97316; margin-bottom:0;">
+  <h2 style="color:#f97316; margin-bottom:0;">
     Dev by <span style="color:#60a5fa;">Role</span>, Automator by <span style="color:#34d399;">Soul</span>
   </h2>
-  <p style="color:#9ca3af; font-style:italic; margin-top:4px;">
+  <p style="color:#666; font-style:italic; margin-top:4px;">
     👨‍💻 From code to workflows, turning ideas into automation magic ✨
   </p>
 </div>
 
----
+<hr>
 
-## 💡 About Me
+<h2>💡 About Me</h2>
 
-A passionate Full Stack Web Developer from India 🇮🇳
+<ul>
+  <li>🇮🇳 A passionate <strong>Full Stack Web Developer</strong> from India</li>
+  <li>💻 <strong>Tech Stack:</strong> PHP, Laravel, Node.js, React.js, JavaScript</li>
+  <li>🧰 I create Web Apps, Custom Dashboards, Productivity Tools & Public APIs</li>
+  <li>🤖 Automating Google Workspace using <strong>Google Apps Script</strong></li>
+  <li>📚 Currently building <strong>UXLIB</strong> – a reusable UI/UX components library</li>
+  <li>✍️ I love writing blogs that make tech simple & practical</li>
+  <li>🚀 Always exploring new tech, performance hacks & smarter workflows</li>
+</ul>
 
-- 💻 Tech Stack: PHP, Laravel, Node.js, React.js, JavaScript
-- 🧰 I create Web Apps, Custom Dashboards, Productivity Tools & Public APIs
-- 🤖 Automate Google Workspace using Google Apps Script
-- 📚 Building **UXLIB** – a reusable UI/UX components library
-- ✍️ I love writing blogs that make tech simple & practical
-- 🚀 Always exploring new tech, performance hacks, and smarter workflows
+<hr>
 
----
+<h2>🛠 My Current Focus</h2>
 
-## 🛠 My Current Focus
+<ul>
+  <li>🔨 Building scalable blogging systems with Laravel + Blade</li>
+  <li>🧪 Creating tools & utilities for everyday developer workflows</li>
+  <li>📈 Writing clean, SEO-optimized, maintainable code</li>
+</ul>
 
-- 🔨 Building scalable blogging systems with Laravel + Blade
-- 🧪 Creating tools & utilities for everyday developer workflows
-- 📈 Writing clean, SEO-optimized, maintainable code
-
----
 
 ## 🌟 GitHub Highlights
 
