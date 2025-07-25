@@ -70,12 +70,12 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/subratapeid/uxlib">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=uxlib&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=uxlib&theme=radical&cache_seconds=10" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/subratapeid/gMagic">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=gMagic&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=gMagic&theme=radical&cache_seconds=10" />
       </a>
     </td>
   </tr>
