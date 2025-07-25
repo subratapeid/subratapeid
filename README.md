@@ -43,19 +43,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 GitHub Highlights
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=subratapeid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratapeid&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subratapanda&show_icons=true&theme=radical" alt="Subrata's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subratapanda&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratapanda&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subratapeid&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
-
 ## 🚀 Top Projects
 
 <table>
