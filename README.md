@@ -79,12 +79,12 @@
   </td>
   <td align="center" width="50%">
     <p style="text-decoration: none;">
-    <a href="https://github.com/subratapeid/gMagic">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=gMagic&theme=radical&cache_seconds=60" />
-      <img src="https://img.shields.io/github/stars/subratapeid/gMagic?style=social" />
-      <img src="https://img.shields.io/github/forks/subratapeid/gMagic?style=social" />
-      <img src="https://img.shields.io/github/last-commit/subratapeid/gMagic" />
-    </a>
+      <a href="https://github.com/subratapeid/gMagic">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=gMagic&theme=radical&cache_seconds=60" />
+        <a href="#"><img src="https://img.shields.io/github/stars/subratapeid/gMagic?style=social" /></a>
+        <a href="#"><img src="https://img.shields.io/github/forks/subratapeid/gMagic?style=social" /></a>
+        <a href="#"><img src="https://img.shields.io/github/last-commit/subratapeid/gMagic" /></a>
+      </a>
     </p>
   </td>
 </tr>
