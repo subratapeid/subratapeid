@@ -1,84 +1,84 @@
-<h1 align="center">👋 Hi there, I'm Subrata</h1>
+<h1 align="center">👋 Hi, I'm Subrata</h1>
 
 <div align="center">
-  <h2 style="color:#f97316; margin-bottom:0;">
-    Dev by <span style="color:#60a5fa;">Role</span>, Automator by <span style="color:#34d399;">Soul</span>
-  </h2>
-  <p style="color:#666; font-style:italic; margin-top:4px;">
-    👨‍💻 From code to workflows, turning ideas into automation magic ✨
-  </p>
+  <h3>🧠 Dev by <span style="color:#60a5fa;">Role</span>, 🤖 Automator by <span style="color:#34d399;">Soul</span></h3>
+  <em>From code to workflows, turning ideas into automation magic ✨</em>
 </div>
 
-<hr>
-
-<h2>💡 About Me</h2>
-
-<ul>
-  <li>🇮🇳 A passionate <strong>Full Stack Web Developer</strong> from India</li>
-  <li>💻 <strong>Tech Stack:</strong> PHP, Laravel, Node.js, React.js, JavaScript</li>
-  <li>🧰 I create Web Apps, Custom Dashboards, Productivity Tools & Public APIs</li>
-  <li>🤖 Automating Google Workspace using <strong>Google Apps Script</strong></li>
-  <li>📚 Currently building <strong>UXLIB</strong> – a reusable UI/UX components library</li>
-  <li>✍️ I love writing blogs that make tech simple & practical</li>
-  <li>🚀 Always exploring new tech, performance hacks & smarter workflows</li>
-</ul>
-
-<hr>
-
-<h2>🛠 My Current Focus</h2>
-
-<ul>
-  <li>🔨 Building scalable blogging systems with Laravel + Blade</li>
-  <li>🧪 Creating tools & utilities for everyday developer workflows</li>
-  <li>📈 Writing clean, SEO-optimized, maintainable code</li>
-</ul>
-
-
-## 🌟 GitHub Highlights
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=subratapeid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratapeid&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subratapeid&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://img.shields.io/badge/Laravel-E34F26?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-<h2 align="center">🚀 Top Projects</h2>
+## 💡 About Me
 
-<table align="center">
+- 🇮🇳 Full Stack Developer from India  
+- 💻 I craft Web Apps, Dashboards & Developer Tools  
+- 🤖 Automating Google Workspace with Apps Script  
+- 📚 Building **UXLIB** – Reusable UI/UX component library  
+- ✍️ Writing blogs to make tech simple & practical  
+- 🚀 Exploring clean architecture & smarter workflows  
+
+---
+
+## 🛠 My Current Focus
+
+<table>
+<tr>
+  <td>🔨 Building blogging systems with Laravel + Blade</td>
+  <td>🧪 Creating tools & utilities for dev workflows</td>
+</tr>
+<tr>
+  <td>📈 Writing SEO-optimized, maintainable code</td>
+  <td>🌐 Automating real-world tasks via scripting</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subratapanda&show_icons=true&theme=radical" alt="Subrata's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subratapanda&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratapanda&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+## 🚀 Top Projects
+
+<table>
   <tr>
-    <td width="50%">
-      <h3>🔧 <a href="https://github.com/yourusername/uxlib">UXLIB</a></h3>
-      <p>📦 A library of reusable UI/UX components for faster, cleaner dev.</p>
-      <img src="https://img.shields.io/github/stars/yourusername/uxlib?style=social" />
-      <img src="https://img.shields.io/github/forks/yourusername/uxlib?style=social" />
+    <td align="center" width="50%">
+      <a href="https://github.com/yourusername/uxlib">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=uxlib&theme=radical" />
+      </a>
     </td>
-    <td width="50%">
-      <h3>📊 <a href="https://github.com/yourusername/autodash">AutoDash</a></h3>
-      <p>⚙️ Custom dashboard generator using Laravel + React.</p>
-      <img src="https://img.shields.io/github/stars/yourusername/autodash?style=social" />
-      <img src="https://img.shields.io/github/forks/yourusername/autodash?style=social" />
+    <td align="center" width="50%">
+      <a href="https://github.com/yourusername/autodash">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=autodash&theme=radical" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>📬 <a href="https://github.com/yourusername/gmail-tools">Gmail Tools</a></h3>
-      <p>🤖 Google Apps Script-based automation toolkit for Gmail power users.</p>
-      <img src="https://img.shields.io/github/stars/yourusername/gmail-tools?style=social" />
-      <img src="https://img.shields.io/github/forks/yourusername/gmail-tools?style=social" />
+    <td align="center" width="50%">
+      <a href="https://github.com/yourusername/gmail-tools">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=gmail-tools&theme=radical" />
+      </a>
     </td>
-    <td width="50%">
-      <!-- Empty cell or add another project later -->
+    <td align="center" width="50%">
+      <!-- Add more or leave blank -->
     </td>
   </tr>
 </table>
