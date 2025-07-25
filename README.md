@@ -69,12 +69,12 @@
 <tr>
   <td align="center" width="50%">
     <p style="text-decoration: none;">
-    <a href="https://github.com/subratapeid/uxlib">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=uxlib&theme=radical&cache_seconds=60" />
-          <img src="https://img.shields.io/github/stars/subratapeid/uxlib?style=social" />
-      <img src="https://img.shields.io/github/forks/subratapeid/uxlib?style=social" />
-      <img src="https://img.shields.io/github/last-commit/subratapeid/uxlib" />
-    </a>
+      <a href="https://github.com/subratapeid/uxlib">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=uxlib&theme=radical&cache_seconds=60" />
+            <img src="https://img.shields.io/github/stars/subratapeid/uxlib?style=social" />
+        <img src="https://img.shields.io/github/forks/subratapeid/uxlib?style=social" />
+        <img src="https://img.shields.io/github/last-commit/subratapeid/uxlib" />
+      </a>
     </p>
   </td>
   <td align="center" width="50%">
