@@ -46,7 +46,7 @@
 
 <table>
   <tr>
-    <td>
+    <td style="width: 40%;">
       <img src="https://github-readme-stats.vercel.app/api?username=subratapeid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td>
