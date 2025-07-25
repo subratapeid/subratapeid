@@ -75,16 +75,16 @@
       </a>
     </td> -->
   </tr>
+      <!-- 
   <tr>
-    <!-- <td align="center" width="50%">
+  <td align="center" width="50%">
       <a href="https://github.com/subratapeid/gmail-tools">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=gmail-tools&theme=radical" />
       </a>
     </td>
     <td align="center" width="50%">
-    </td>-->
-
-  </tr>
+    </td>
+  </tr>-->
 </table>
 
 
