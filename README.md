@@ -51,15 +51,36 @@ A passionate Full Stack Web Developer from India 🇮🇳
 
 ---
 
-## 🚀 Top Projects
+<h2 align="center">🚀 Top Projects</h2>
 
-<!-- Replace with your pinned repo links or cards -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🔧 <a href="https://github.com/yourusername/uxlib">UXLIB</a></h3>
+      <p>📦 A library of reusable UI/UX components for faster, cleaner dev.</p>
+      <img src="https://img.shields.io/github/stars/yourusername/uxlib?style=social" />
+      <img src="https://img.shields.io/github/forks/yourusername/uxlib?style=social" />
+    </td>
+    <td width="50%">
+      <h3>📊 <a href="https://github.com/yourusername/autodash">AutoDash</a></h3>
+      <p>⚙️ Custom dashboard generator using Laravel + React.</p>
+      <img src="https://img.shields.io/github/stars/yourusername/autodash?style=social" />
+      <img src="https://img.shields.io/github/forks/yourusername/autodash?style=social" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📬 <a href="https://github.com/yourusername/gmail-tools">Gmail Tools</a></h3>
+      <p>🤖 Google Apps Script-based automation toolkit for Gmail power users.</p>
+      <img src="https://img.shields.io/github/stars/yourusername/gmail-tools?style=social" />
+      <img src="https://img.shields.io/github/forks/yourusername/gmail-tools?style=social" />
+    </td>
+    <td width="50%">
+      <!-- Empty cell or add another project later -->
+    </td>
+  </tr>
+</table>
 
-- 🔧 [**UXLIB**](#) – A library of reusable UI/UX components for faster development
-- 📊 [**AutoDash**](#) – Custom Dashboard generator using Laravel + React
-- 📬 [**Gmail Tools**](#) – Google Apps Script-based Gmail automation
-
----
 
 ## 👬 Let's Connect
 
