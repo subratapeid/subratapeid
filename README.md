@@ -51,14 +51,14 @@
       <img src="https://github-readme-stats.vercel.app/api?username=subratapeid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=subratapeid&theme=tokyonight" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=subratapeid&theme=tokyonight" alt="GitHub Streak Stats" />
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratapeid&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
-    <td >
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subratapeid&theme=tokyonight" alt="Profile Summary Card" />
     </td>
   </tr>
@@ -73,11 +73,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=uxlib&theme=radical" />
       </a>
     </td>
-    <!-- <td align="center" width="50%">
-      <a href="https://github.com/subratapeid/autodash">
+    <td align="center" width="50%">
+      <a href="https://github.com/subratapeid/gMagic">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=autodash&theme=radical" />
       </a>
-    </td> -->
+    </td>
   </tr>
       <!-- 
   <tr>
