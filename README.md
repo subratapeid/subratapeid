@@ -68,23 +68,38 @@
 <table>
 <tr>
   <td align="center" width="50%">
-    <a href="https://github.com/subratapeid/uxlib">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=uxlib&theme=radical&cache_seconds=60" />
-          <img src="https://img.shields.io/github/stars/subratapeid/uxlib?style=social" />
-      <img src="https://img.shields.io/github/forks/subratapeid/uxlib?style=social" />
-      <img src="https://img.shields.io/github/last-commit/subratapeid/uxlib" />
+    <a href="https://github.com/subratapeid/uxlib" style="text-decoration: none;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=uxlib&theme=radical&cache_seconds=60" alt="uxlib repo card"/>
+    </a>
+    <br/>
+    <a href="https://github.com/subratapeid/uxlib" style="text-decoration: none;">
+      <img src="https://img.shields.io/github/stars/subratapeid/uxlib?style=social" alt="Stars"/>
+    </a>
+    <a href="https://github.com/subratapeid/uxlib" style="text-decoration: none;">
+      <img src="https://img.shields.io/github/forks/subratapeid/uxlib?style=social" alt="Forks"/>
+    </a>
+    <a href="https://github.com/subratapeid/uxlib" style="text-decoration: none;">
+      <img src="https://img.shields.io/github/last-commit/subratapeid/uxlib" alt="Last Commit"/>
     </a>
   </td>
-  <td align="center" width="50%">
-    <a href="https://github.com/subratapeid/gMagic">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=gMagic&theme=radical&cache_seconds=60" />
-      <img src="https://img.shields.io/github/stars/subratapeid/gMagic?style=social" />
-      <img src="https://img.shields.io/github/forks/subratapeid/gMagic?style=social" />
-      <img src="https://img.shields.io/github/last-commit/subratapeid/gMagic" />
-    </a>
 
+  <td align="center" width="50%">
+    <a href="https://github.com/subratapeid/gMagic" style="text-decoration: none;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=gMagic&theme=radical&cache_seconds=60" alt="gMagic repo card"/>
+    </a>
+    <br/>
+    <a href="https://github.com/subratapeid/gMagic" style="text-decoration: none;">
+      <img src="https://img.shields.io/github/stars/subratapeid/gMagic?style=social" alt="Stars"/>
+    </a>
+    <a href="https://github.com/subratapeid/gMagic" style="text-decoration: none;">
+      <img src="https://img.shields.io/github/forks/subratapeid/gMagic?style=social" alt="Forks"/>
+    </a>
+    <a href="https://github.com/subratapeid/gMagic" style="text-decoration: none;">
+      <img src="https://img.shields.io/github/last-commit/subratapeid/gMagic" alt="Last Commit"/>
+    </a>
   </td>
 </tr>
+
 </table>
 
 
