@@ -62,39 +62,38 @@
 
 ---
 ## 🚀 Top Projects
-
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/yourusername/uxlib">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=uxlib&theme=radical" />
+      <a href="https://github.com/subratapeid/uxlib">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=uxlib&theme=radical" />
       </a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/yourusername/autodash">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=autodash&theme=radical" />
+    <!-- <td align="center" width="50%">
+      <a href="https://github.com/subratapeid/autodash">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=autodash&theme=radical" />
       </a>
-    </td>
+    </td> -->
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/yourusername/gmail-tools">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=gmail-tools&theme=radical" />
+    <!-- <td align="center" width="50%">
+      <a href="https://github.com/subratapeid/gmail-tools">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=gmail-tools&theme=radical" />
       </a>
     </td>
     <td align="center" width="50%">
-      <!-- Add more or leave blank -->
-    </td>
+    </td>-->
+
   </tr>
 </table>
 
 
 ## 👬 Let's Connect
 
-- 🌐 [Portfolio Website](#) <!-- Add your link -->
-- 📝 [Blog Articles](#) <!-- Add your blog link -->
-- 💼 [LinkedIn](#) <!-- Optional -->
-- 🕖 [Twitter](#) <!-- Optional -->
+- 🌐 [Portfolio Website](https://subratap.gitlab.io/profile/)
+- 📝 [Blog Articles](https://pagelyne.com)
+- 💼 [LinkedIn](#)
+- 🕖 [Twitter](#)
 
 ---
 
