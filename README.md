@@ -46,11 +46,11 @@
 
 <table>
   <tr>
-    <td style="max-height: 100px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=subratapeid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=subratapeid&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="max-height: 100px;"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=subratapeid&theme=tokyonight" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=subratapeid&theme=tokyonight" alt="GitHub Streak Stats" style="max-height: 100px;"/>
     </td>
   </tr>
   <tr>
