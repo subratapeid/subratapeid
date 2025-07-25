@@ -75,7 +75,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/subratapeid/gMagic">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=autodash&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=gMagic&theme=radical" />
       </a>
     </td>
   </tr>
