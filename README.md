@@ -58,7 +58,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratapeid&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subratapeid&theme=tokyonight" alt="Profile Summary Card" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subratapeid&theme=tokyonight&layout=compact" alt="Profile Summary Card" />
     </td>
   </tr>
 </table>
