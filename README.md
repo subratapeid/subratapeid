@@ -1,7 +1,13 @@
 # 👋 Hi there, I'm Subrata
 
-🔥 Laravel Alchemist ⚙ Node.js Hacker ⚡ React.js Sorcerer  
-🧩 Interface Sculptor 📊 Dashboard Mechanic 🤖 Google Workspace Automator  
+<div align="center">
+  <h2 style="font-family:Segoe UI, sans-serif; color:#f97316; margin-bottom:0;">
+    Dev by <span style="color:#60a5fa;">Role</span>, Automator by <span style="color:#34d399;">Soul</span>
+  </h2>
+  <p style="color:#9ca3af; font-style:italic; margin-top:4px;">
+    👨‍💻 From code to workflows, turning ideas into automation magic ✨
+  </p>
+</div>
 
 ---
 
