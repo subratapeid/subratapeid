@@ -67,18 +67,37 @@
 ---
 ## 🚀 Top Projects
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/subratapeid/uxlib">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=uxlib&theme=radical&cache_seconds=60" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/subratapeid/gMagic">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=gMagic&theme=radical&cache_seconds=60" />
-      </a>
-    </td>
-  </tr>
+<tr>
+  <td align="center" width="50%">
+    <a href="https://github.com/subratapeid/uxlib">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=uxlib&theme=radical&cache_seconds=60" />
+    </a><br>
+    <a href="https://github.com/subratapeid/uxlib/stargazers">
+      <img src="https://img.shields.io/github/stars/subratapeid/uxlib?style=social" />
+    </a>
+    <a href="https://github.com/subratapeid/uxlib/network/members">
+      <img src="https://img.shields.io/github/forks/subratapeid/uxlib?style=social" />
+    </a>
+    <a href="https://github.com/subratapeid/uxlib/commits/main">
+      <img src="https://img.shields.io/github/last-commit/subratapeid/uxlib" />
+    </a>
+  </td>
+  <td align="center" width="50%">
+    <a href="https://github.com/subratapeid/gMagic">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=subratapeid&repo=gMagic&theme=radical&cache_seconds=60" />
+    </a><br>
+    <a href="https://github.com/subratapeid/gMagic/stargazers">
+      <img src="https://img.shields.io/github/stars/subratapeid/gMagic?style=social" />
+    </a>
+    <a href="https://github.com/subratapeid/gMagic/network/members">
+      <img src="https://img.shields.io/github/forks/subratapeid/gMagic?style=social" />
+    </a>
+    <a href="https://github.com/subratapeid/gMagic/commits/main">
+      <img src="https://img.shields.io/github/last-commit/subratapeid/gMagic" />
+    </a>
+  </td>
+</tr>
+
       <!-- 
   <tr>
   <td align="center" width="50%">
